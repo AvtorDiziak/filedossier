@@ -1,0 +1,10 @@
+ru/ilb/filedossier/ddl/DossierDefinition.class
+ru/ilb/filedossier/ddl/ObjectFactory.class
+ru/ilb/filedossier/ddl/DossierDefinitionRepository.class
+ru/ilb/filedossier/ddl/package-info.class
+ru/ilb/filedossier/ddl/DossierNotFoundException.class
+ru/ilb/filedossier/ddl/RepresentationDefinition.class
+ru/ilb/filedossier/ddl/DossierFileDefinition.class
+ru/ilb/filedossier/ddl/FileDossierDefinitionRepository.class
+ru/ilb/filedossier/api/DossierModelsResource.class
+ru/ilb/filedossier/ddl/PackageDefinition.class

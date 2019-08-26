@@ -1,0 +1,6 @@
+ru/ilb/filedossier/representation/PdfGenRepresentationTest.class
+ru/ilb/filedossier/representation/JsonXmlRepresentationTest.class
+ru/ilb/filedossier/representation/PdfXsltRepresentationTest.class
+ru/ilb/filedossier/representation/OdsXsltRepresentationTest.class
+ru/ilb/filedossier/representation/PdfMultipageRepresentationTest.class
+ru/ilb/filedossier/representation/DossierContentsHolder.class

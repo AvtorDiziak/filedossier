@@ -1,0 +1,7 @@
+ru/ilb/filedossier/repositories/DossierContextRepository.class
+org/apache/cxf/jaxrs/spring/AbstractSpringConfigurationFactory.class
+ru/ilb/filedossier/model/DossierContextData.class
+ru/ilb/filedossier/XSLTRequestFilter.class
+ru/ilb/filedossier/model/DossierContextPersistence.class
+ru/ilb/filedossier/ServletInitializer.class
+ru/ilb/filedossier/Application.class

@@ -1,0 +1,8 @@
+ru/ilb/filedossier/core/DossierImpl.class
+ru/ilb/filedossier/core/DossierFileNotFoundException.class
+ru/ilb/filedossier/core/DossierFileFactory.class
+ru/ilb/filedossier/core/PdfDossierFile.class
+ru/ilb/filedossier/core/DossierFileImpl.class
+ru/ilb/filedossier/core/RepresentationNotFoundException.class
+ru/ilb/filedossier/core/DossierFactory.class
+ru/ilb/filedossier/core/FileNotExistsException.class

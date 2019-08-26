@@ -1,0 +1,5 @@
+/home/develop01/work/filedossier/filedossier-context-persistence/src/main/java/ru/ilb/filedossier/context/persistence/DBDossierContextService.java
+/home/develop01/work/filedossier/filedossier-context-persistence/src/main/java/ru/ilb/filedossier/context/persistence/DossierContextNamingStrategy.java
+/home/develop01/work/filedossier/filedossier-context-persistence/src/main/java/ru/ilb/filedossier/context/persistence/model/DossierContextData.java
+/home/develop01/work/filedossier/filedossier-context-persistence/src/main/java/ru/ilb/filedossier/context/persistence/model/DossierContextPersistence.java
+/home/develop01/work/filedossier/filedossier-context-persistence/src/main/java/ru/ilb/filedossier/context/persistence/repositories/DossierContextRepository.java

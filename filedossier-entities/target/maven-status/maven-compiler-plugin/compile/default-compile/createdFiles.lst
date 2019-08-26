@@ -1,0 +1,8 @@
+ru/ilb/filedossier/entities/Barcode.class
+ru/ilb/filedossier/entities/Store.class
+ru/ilb/filedossier/entities/DossierPath.class
+ru/ilb/filedossier/entities/Dossier.class
+ru/ilb/filedossier/entities/Representation.class
+ru/ilb/filedossier/entities/DossierFile.class
+ru/ilb/filedossier/entities/DossierContext.class
+ru/ilb/filedossier/entities/DossierContents.class

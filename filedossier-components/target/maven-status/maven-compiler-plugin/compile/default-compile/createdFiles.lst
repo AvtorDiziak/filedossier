@@ -1,0 +1,9 @@
+ru/ilb/filedossier/components/Util.class
+ru/ilb/filedossier/mappers/DossierMapperImpl.class
+ru/ilb/filedossier/mappers/DossierFileMapperImpl.class
+ru/ilb/filedossier/components/DossierContextResourceImpl.class
+ru/ilb/filedossier/components/DossierResourceImpl.class
+ru/ilb/filedossier/mappers/DossierFileMapper.class
+ru/ilb/filedossier/mappers/DossierMapper.class
+ru/ilb/filedossier/components/DossierFileResourceImpl.class
+ru/ilb/filedossier/components/DossiersResourceImpl.class

@@ -1,0 +1,6 @@
+ru/ilb/filedossier/functions/WebResourceFunction.class
+ru/ilb/filedossier/functions/ByteFunction.class
+ru/ilb/filedossier/functions/MapRuntimeFunction.class
+ru/ilb/filedossier/functions/MapFunction.class
+ru/ilb/filedossier/functions/RuntimeFunction.class
+ru/ilb/filedossier/functions/BadCommandResponseException.class

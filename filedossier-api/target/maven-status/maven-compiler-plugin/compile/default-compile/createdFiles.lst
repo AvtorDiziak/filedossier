@@ -1,0 +1,10 @@
+ru/ilb/filedossier/api/DossierFileResource.class
+ru/ilb/filedossier/core/ObjectFactory.class
+ru/ilb/filedossier/view/DossierView.class
+ru/ilb/filedossier/core/ReadOptions.class
+ru/ilb/filedossier/api/DossierContextResource.class
+ru/ilb/filedossier/view/DossierFileView.class
+ru/ilb/filedossier/view/ObjectFactory.class
+ru/ilb/filedossier/api/DossiersResource.class
+ru/ilb/filedossier/view/package-info.class
+ru/ilb/filedossier/api/DossierResource.class

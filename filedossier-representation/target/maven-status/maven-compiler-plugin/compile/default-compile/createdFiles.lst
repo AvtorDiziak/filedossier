@@ -1,0 +1,8 @@
+ru/ilb/filedossier/representation/PdfXsltRepresentation.class
+ru/ilb/filedossier/representation/PdfMultipageRepresentation.class
+ru/ilb/filedossier/representation/JsonXmlRepresentation.class
+ru/ilb/filedossier/representation/RepresentationFactory.class
+ru/ilb/filedossier/representation/URIResolverImpl.class
+ru/ilb/filedossier/representation/OdsXsltRepresentation.class
+ru/ilb/filedossier/representation/IdentityRepresentation.class
+ru/ilb/filedossier/representation/PdfGenRepresentation.class

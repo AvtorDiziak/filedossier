@@ -1,0 +1,5 @@
+ru/ilb/filedossier/context/persistence/DossierContextNamingStrategy.class
+ru/ilb/filedossier/context/persistence/DBDossierContextService.class
+ru/ilb/filedossier/context/persistence/repositories/DossierContextRepository.class
+ru/ilb/filedossier/context/persistence/model/DossierContextPersistence.class
+ru/ilb/filedossier/context/persistence/model/DossierContextData.class
